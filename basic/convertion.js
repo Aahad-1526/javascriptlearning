@@ -35,3 +35,7 @@ yourName =  "falak"
 
 console.log(yourName)
 console.log(myName);
+
+/* primitivee type and non primitive type
+example are primitive - stack, non pimitive type are - heap */
+
