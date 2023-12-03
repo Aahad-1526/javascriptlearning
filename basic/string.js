@@ -20,7 +20,4 @@ let spaceName= "   falak   "
 console.log(spaceName.trim())
 
 
-
-
-
 console.log( );
